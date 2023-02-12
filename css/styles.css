@@ -71,6 +71,9 @@ body {
 .button-style:hover {
   color: black;
 }
+.buttons:hover {
+  color: #2196f3;
+}
 
 .middle-section {
   background-color: #e5e5e5;
@@ -152,7 +155,4 @@ body {
 }
 .list-one {
   list-style: none;
-}
-.buttons:hover {
-  color: #2196f3;
 }
