@@ -55,7 +55,7 @@ body {
   line-height: 1, 36;
   color: #ffffff;
 }
-#button-style {
+.button-style {
   font-weight: 700;
   font-size: 16px;
   line-height: 1, 87;
@@ -68,7 +68,7 @@ body {
   cursor: pointer;
   border: #2196f3;
 }
-#button-style:hover {
+.button-style:hover {
   color: black;
 }
 
