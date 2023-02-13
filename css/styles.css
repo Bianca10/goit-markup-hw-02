@@ -8,9 +8,22 @@ body {
 }
 .logo::after {
   content: "Studio";
+  color: black;
+}
+
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1, 19;
+  color: #2196f3;
+  text-decoration: none;
+}
+.logo-2::after {
+  content: "Studio";
   color: white;
 }
-.logo {
+.logo-2 {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
